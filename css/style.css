@@ -109,7 +109,7 @@
 	
 		a:hover
 		{
-			color: #ef8376;
+			color: #f39c12;
 			border-bottom-color: transparent;
 		}
 
@@ -393,7 +393,7 @@
 				
 					ul.icons li a:hover
 					{
-						color: #ef8376;
+						color: #f39c12;
 					}
 
 		ol.style1
@@ -519,7 +519,7 @@
 		{
 			position: relative;
 			display: inline-block;
-			background: #df7366;
+			background: #2980b9;
 			color: #fff;
 			text-align: center;
 			border-radius: 0.5em;
@@ -533,7 +533,7 @@
 			.button:hover
 			{
 				color: #fff;
-				background: #ef8376;
+				background: #3498db;
 			}
 			
 			.button:active
@@ -1550,3 +1550,10 @@
 			{
 				text-align: center;
 			}
+
+/*CUSTOM*/
+#amistad {
+	width: 500px;
+	float: left;
+	margin-right: 35px;
+}
