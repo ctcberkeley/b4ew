@@ -17,7 +17,7 @@
 	margin-bottom: 30px !important;
 }
 
-.mainHome {
+.wrapperCustom {
 	padding: 3em;
 }
 
@@ -38,3 +38,10 @@ header {
 	margin: 0 0 .5em 0;
 }
 
+hr {
+	margin-bottom: 7em;
+}
+
+#oldPic {
+	float: right;
+}
