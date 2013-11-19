@@ -5,3 +5,21 @@
 #upcomingEventsHeader {
 	text-align: justify;
 }
+
+.slider {
+	width: 700px;
+	float: right;
+}
+
+.intro {
+	float: left;
+	width: 400px;
+}
+
+.mainHome {
+	padding: 3em;
+}
+
+.introHeader {
+	font-weight: bold;
+}
