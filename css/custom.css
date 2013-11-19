@@ -14,12 +14,27 @@
 .intro {
 	float: left;
 	width: 400px;
+	margin-bottom: 30px !important;
 }
 
 .mainHome {
 	padding: 3em;
 }
 
-.introHeader {
+.sectionHeader {
 	font-weight: bold;
 }
+
+.homeEvents {
+	width: 400px; 
+	float: left;
+}	
+
+section {
+	margin-bottom: 15px;
+}
+
+header {
+	margin: 0 0 .5em 0;
+}
+
