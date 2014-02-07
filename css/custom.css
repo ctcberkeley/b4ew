@@ -135,3 +135,14 @@ header h1 {
 #header {
 	background-color: #2980b9;
 }
+
+#footer {
+	padding: 2em 2em 2em 2em;
+	background: #2980b9;
+}
+#footer .copyright {
+	color: white;
+}
+#footer .contact p {
+	margin: 0 0 0 0;
+}
